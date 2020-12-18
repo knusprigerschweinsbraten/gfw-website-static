@@ -1,0 +1,3 @@
+This repository provides the source of the website used until the end of 2020.
+It has been written in an 'old school' fashion - just html, a few lines of js and css.
+This repository is not maintained anymore.
